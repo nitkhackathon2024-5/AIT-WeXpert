@@ -1,0 +1,101 @@
+  .video{
+    background-color:black;
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+  }
+
+  .card-menu {
+    font-size: larger;
+    color: white;
+    bottom: 10px;
+    position: absolute;
+    right: 20px;
+  }
+
+  .card-menu-box{
+    margin: 0;
+    font-size: 12px;
+    background-color: white;
+    color: black;
+    position: absolute;
+    border-radius: 10px;
+    bottom: 25px;
+    right: 0px;
+  }
+  
+  .card-menu-btn{
+    padding: 6px 10px;
+    width: 110px;
+  }
+
+  .card-menu:hover{
+    cursor: pointer;
+  }
+
+  .participant {
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    border-radius: 5px;
+    max-height: 37rem;
+    min-height: 200px
+  }
+
+  .muted {
+    color: #fff;
+    right: 10px;
+    position: absolute;
+    top: 10px;
+    background: black;
+    border-radius: 50%;
+    height: 22px;
+    width: 22px!important;
+  }
+
+  .hide {
+    display: none;
+  }
+
+  .avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    font-size: 150px;
+    font-family: roboto, arial;
+    color: white;
+    text-align: center;
+    background: orange;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+  }
+
+  .avatar-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 10;
+  }
+
+  .name {
+    color: white;
+    bottom: 10px;
+    position: absolute;
+    left: 20px;
+  }
+
+  @media (max-width: 800px) {
+    .participant{
+      min-height: 0px;
+    }
+    .avatar {
+      width: 80px;
+      height: 80px;
+      font-size: 50px;
+    }
+  }
