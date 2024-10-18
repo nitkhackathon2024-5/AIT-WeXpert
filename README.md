@@ -10,7 +10,7 @@
 
 ## System Architecture
 <div align="center">
-  <img src="images/Picture1.png" width="450px" />
+  <img src="assets/Picture1.png" width="450px" />
 </div>
 
 
