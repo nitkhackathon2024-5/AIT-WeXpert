@@ -7,43 +7,43 @@
 ### Sign Language Translator for Virtual Meetings
 
 ## Instructions on running your project
-# Installation 
+## Installation 
 <!-- install dependencies -->
-## FontAwesome
+### FontAwesome
 ```bash
 npm install --save @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
 ```
 
-## XLSX for Excel file handling
+### XLSX for Excel file handling
 ```bash
 npm install --save xlsx
 ```
 
-## React Router
+### React Router
 ```bash
 npm install --save react-router-dom
 ```
 
-## React Redux
+### React Redux
 ```bash
 npm install --save react-redux redux
 ```
 
-## React Tooltip
+### React Tooltip
 ```bash
 npm install --save react-tooltip
 ```
 
-## React Calendar
+### React Calendar
 ```bash
 npm install --save react-calendar
 ```
-## Google Authentication Key
+### Google Authentication Key
 ```bash
 npm install react-google-login
 ```
 
-## Firebase
+### Firebase
 ```bash
 npm install --save firebase
 ```
