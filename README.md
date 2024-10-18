@@ -53,22 +53,6 @@ npm install --save firebase
 - Add your firebase config details to Server/firebase.js.
 - Run "npm run start" to start the app.
 
-## Demo
 
-### Demo Video Link
-https://drive.google.com/file/d/1ab_xpvM2uC3r7pI69L5MSFAgyZT1fw1Q/view
-<br/>
-👆👆👆👆
-
-### Demo Presentation Link
-https://www.canva.com/design/DAGHdsTabMw/t4ZVZM6K-1Rvpby1GuCpXA/view?utm_content=DAGHdsTabMw&utm_campaign=designshare&utm_medium=link&utm_source=editor
-<br/>
-👆👆👆👆
-
-### Demo Webpage Link
-
-https://xpert-video-meet.vercel.app/
-<br/>
-👆👆👆👆
 
 ## References
