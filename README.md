@@ -8,6 +8,12 @@
 <p> The goal is to enhance accessibility in virtual meetings by developing a plugin for platforms like Microsoft Teams or Zoom that translates spoken conversations into sign language in real-time. This will allow users who are deaf or hard of hearing to fully engage in conversations by providing seamless translation of spoken words into sign language.
 </p>
 
+## System Architecture
+<div align="center">
+  <img src="images/Picture1.png" width="450px" />
+</div>
+
+
 ## Instructions on running your project
 ## Installation 
 <!-- install dependencies -->
