@@ -1,7 +1,7 @@
 ## Adichunchanagiri Institute of Technology - WeXpert
-- Abhishek B : abhishekb2610@gmail.com
-- Amaan M K : syedkhalander66@gmial.com
-- Abdul Rahman : rahmanckm018@gmail.com
+- Team Lead : Abhishek B (abhishekb2610@gmail.com)
+- Member 1  : Amaan M K (syedkhalander66@gmial.com)
+- Member 2  : Abdul Rahman (rahmanckm018@gmail.com)
 
 ## Problem Statement
 ### Sign Language Translator for Virtual Meetings : 
