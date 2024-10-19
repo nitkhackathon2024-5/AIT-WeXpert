@@ -10,8 +10,8 @@
 
 ## System Architecture
 <div align="center">
-  <img src="assets/Picture1.png" width="450px" />
   <img src="assets/system.png" width="450px" />
+  <img src="assets/Picture1.png" width="450px" />
 </div>
 
 ## Tech Stack
