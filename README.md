@@ -13,6 +13,16 @@
   <img src="assets/Picture1.png" width="450px" />
 </div>
 
+## Tech Stack
+### Frontend
+- React
+- Tailwind CSS
+- Framer Motion
+
+### Backend
+- nodejs
+- python(flask)
+- firebase
 
 ## Instructions on running your project
 ## Installation 
