@@ -1,6 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
 import { connect } from "react-redux";
-import Sign from "../../pages/Sign/Sign";
 import { setMainStream, updateUser } from "../../store/actioncreator";
 import Chatbot from "../Chatbot/Chatbot";
 import JamBoard from "../JamBoard/JamBoard";
@@ -8,6 +7,7 @@ import MeetingFooter from "../MeetingFooter/MeetingFooter.component";
 import MeetingInfo from "../MeetingInfo/MeetingInfo";
 import MessageBox from '../MessageBox/MessageBox';
 import Participants from "../Participants/Participants.component";
+import Sign from "../Sign/Sign";
 import Transcription from "../Transcription/Transcription";
 import "./MainScreen.css";
 

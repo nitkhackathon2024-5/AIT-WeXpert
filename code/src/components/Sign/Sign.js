@@ -11,7 +11,7 @@ const islGifs = [
   'hello what is your name', 'how many people are there in your family', 'i am a clerk', 'i am bore doing nothing',
   'i am fine', 'i am sorry', 'i am thinking', 'i am tired', 'i dont understand anything', 'i go to a theatre', 'i love to shop',
   'i had to say something but i forgot', 'i have headache', 'i like pink colour', 'i live in nagpur', 'lets go for lunch',
-  'my mother is a homemaker', 'my name is john', 'nice to meet you', 'no smoking please', 'open the door',
+  'my mother is a homemaker', 'my name is john', 'nice to meet you', 'no smoking please', 'open the door', 
   'please call me later', 'please clean the room', 'please give me your pen', 'please use dustbin dont throw garbage',
   'please wait for sometime', 'shall I help you', 'shall we go together tomorrow', 'sign language interpreter',
   'sit down', 'stand up', 'take care', 'there was traffic jam', 'wait I am thinking', 'what are you doing', 'what is the problem',
