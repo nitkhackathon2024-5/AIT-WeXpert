@@ -69,7 +69,7 @@ npm install --save firebase
 
 ## Demo
 ### Demo Video Link
-[https://drive.google.com/file/d/1ab_xpvM2uC3r7pI69L5MSFAgyZT1fw1Q/view](https://drive.google.com/drive/folders/1C87KQ24cIO4zw351NnizWqCa2uIhsaMO?usp=sharing)
+[https://drive.google.com/drive/folders/1C87KQ24cIO4zw351NnizWqCa2uIhsaMO](https://drive.google.com/drive/folders/1C87KQ24cIO4zw351NnizWqCa2uIhsaMO)
 <br/>
 👆👆👆👆
 
