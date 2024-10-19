@@ -1,6 +1,6 @@
 ## Adichunchanagiri Institute of Technology - WeXpert
 - Team Lead : Abhishek B (abhishekb2610@gmail.com)
-- Member 1  : Amaan M K (syedkhalander66@gmial.com)
+- Member 1  : Amaan M K (syedkhalander66@gmail.com)
 - Member 2  : Abdul Rahman (rahmanckm018@gmail.com)
 
 ## Problem Statement
@@ -11,18 +11,19 @@
 ## System Architecture
 <div align="center">
   <img src="assets/Picture1.png" width="450px" />
+  <img src="assets/system.png" width="450px" />
 </div>
 
 ## Tech Stack
 ### Frontend
-- React
+- ReactJs
 - Tailwind CSS
 - Framer Motion
 
 ### Backend
-- nodejs
-- python(flask)
-- firebase
+- NodeJs
+- Python(flask)
+- Firebase
 
 ## Instructions on running your project
 ## Installation 
@@ -66,10 +67,26 @@ npm install react-google-login
 npm install --save firebase
 ```
 
+## Demo
+### Demo Video Link
+[https://drive.google.com/file/d/1ab_xpvM2uC3r7pI69L5MSFAgyZT1fw1Q/view](https://drive.google.com/drive/folders/1C87KQ24cIO4zw351NnizWqCa2uIhsaMO?usp=sharing)
+<br/>
+👆👆👆👆
+
+### Demo Presentation Link
+[https://www.canva.com/design/DAGHdsTabMw/t4ZVZM6K-1Rvpby1GuCpXA/view?utm_content=DAGHdsTabMw&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGHdsTabMw/t4ZVZM6K-1Rvpby1GuCpXA/view?utm_content=DAGHdsTabMw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+<br/>
+👆👆👆👆
+
+### Demo Webpage Link
+https://xpert-video-meet.vercel.app/
+<br/>
+👆👆👆👆
+
 <!-- run below commands -->
 - Run npm install.
 - Add your firebase config details to Server/firebase.js.
-- Run "npm run start" to start the app.
+- Run "npm start" to start the app.
 
 ## References
 - React JS Docs: <a href="https://react.dev/">React</a> <br>
