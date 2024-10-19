@@ -64,7 +64,9 @@ npm install --save firebase
 ## References
 - React JS Docs: <a href="https://react.dev/">React</a> <br>
   A JavaScript library for building interactive user interfaces for web applications.
+  
 - Firebase Docs: <a href="https://firebase.google.com/docs/">Firebase</a> <br>
   Firebase facilitates video call apps by providing real-time database for user authentication and session management.
+  
 - Framer Motion Docs : <a href="https://www.framer.com/motion/">Framer</a> <br>
   Animations that work like magic. When animating between two separate components, Framer Motion will take care of everything in between.
